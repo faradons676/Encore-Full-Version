@@ -241,4 +241,4 @@ This repository serves as the official landing page for Encore. The software is 
 **Get the most recent version of Encore today!**
 
 ---
-**Last updated:** 2026-10-07 17:17:11 UTC
+**Last updated:** 2026-10-07 22:46:40 UTC
